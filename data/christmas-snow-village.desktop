@@ -2,7 +2,7 @@
 Name=Christmas-Snow-Village
 Comment=Christmas-Snow-Village
 Exec=sh -c 'nice xwinwrap -ni -argb -fs -un -s -st -sp -b -nf -- mpv --profile wallpaper --wid WID /usr/share/christmas-snow-village/christmas-snow-village.webm'
-Icon=preferences-desktop-screensaver
+Icon=christmas-tree
 Terminal=false
 StartupNotify=false
 Type=Application
