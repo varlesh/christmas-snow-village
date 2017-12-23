@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Christmas Snow Village
 Comment=Video Wallpaper for Linux
-Exec=sh -c 'nice xwinwrap -ni -argb -fs -un -s -st -sp -b -nf -- mpv --profile wallpaper --wid WID /usr/share/christmas-snow-village/christmas-snow-village.webm'
+Exec=sh -c 'nice xwinwrap -ni -argb -fs -un -s -st -sp -b -nf -ov -d -- mpv --profile wallpaper --wid WID /usr/share/christmas-snow-village/christmas-snow-village.webm'
 Icon=christmas-tree
 Terminal=false
 StartupNotify=false
