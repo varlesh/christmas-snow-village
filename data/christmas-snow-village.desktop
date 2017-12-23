@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Christmas-Snow-Village
+Comment=Christmas-Snow-Village
+Exec=sh -c 'nice xwinwrap -ni -argb -fs -un -s -st -sp -b -nf -- mpv --profile wallpaper --wid WID /usr/share/christmas-snow-village/christmas-snow-village.webm'
+Icon=preferences-desktop-screensaver
+Terminal=false
+StartupNotify=false
+Type=Application
+Categories=System;Application;
+Actions=Exit;
+
+[Desktop Action Exit]
+Name=Exit
+Exec=killall -9 mpv

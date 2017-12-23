@@ -1,0 +1,12 @@
+Source: christmas-snow-village
+Section: misc
+Priority: extra
+Maintainer: Alexey Varfolomeev <varlesh@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.3
+Homepage: https://github.com/varlesh/christmas-snow-village
+
+Package: christmas-snow-village
+Architecture: all
+Depends: mpv, xwinwrap, hicolor-icon-theme
+Description:  Chrstmas Snow Village Video Wallpaper
