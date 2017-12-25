@@ -9,7 +9,7 @@ Christmas Snow Village Video Wallpaper for Linux
 
 # Settings
 ### MPV config ###
-Change options for your self on `/etc/mpv/mpv.conf`
+Change options your self at `~/.config/mpv/mpv.conf`
 
 By default used options for NVIDIA GPU:
 ```
